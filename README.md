@@ -1,4 +1,4 @@
 python-scrape
 
 
-Run scraper.py to get results
+Run `python scraper.py` to do a request and get results in console.
